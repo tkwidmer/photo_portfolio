@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 
-<div class="row">
+<div class="row align-items-center">
   <div class="col-6">
     <img src="/images/headshot.jpg" class="img-fluid" style="width: 100%" />
   </div>
@@ -25,14 +25,14 @@ redirect_from:
     </p>
 
     <h3> Expertise </h3>
-    <p> I enjoy shooting events, environmental portraits, and landscapes / architecture.
+    <p> I enjoy shooting events, portraits, weddings, boudoir, and landscapes / architecture.
     </p>
     <p>
-    Today I shoot a Canon 7D and a Fujifilm X100-T and edit in Photoshop or in CameraBag Photo.
+    I shoot with Canon 7D and a Fujifilm X100-T and edit in Lightroom and Photoshop.
     </p>
 
     <h3> Work With Me </h3>
-    <p> Have an upcoming project? I'd love to collaborate with you! </p>
+    <p> Have an upcoming project? I'd love to work for you! </p>
     <p> Please get in touch using the <a href="/contact/"> contact form</a> and we can discuss rates and scheduling.</p>
   </div>
 

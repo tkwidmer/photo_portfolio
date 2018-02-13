@@ -1,17 +1,5 @@
-$v-space-multiplier: 15px
-$l-space-multiplier: 15px
-
 img
   max-width: 100%
-
-.headroom
-  margin-top: 25px
-
-.more-headroom
-  margin-top: 50px
-
-.even-more-headroom
-  margin-top: 80px
 
 .flexbox-gallery
   display: flex
@@ -32,38 +20,8 @@ img
 
 .navbar.bg-white
   background: white
-  border-bottom: 2px black
 
 // Useable Chunks
-.headroom
-  margin-top: 25px
 
-.more-headroom
-  margin-top: 50px
-
-.even-more-headroom
-  margin-top: 80px
-
-#main-layout
+body
   transition: all 0.4 ease 0s
-  margin-top: 15px
-
-@for $i from 1 through 5
-  .vspace#{$i}
-    margin-top: $v-space-multiplier * $i
-
-@for $i from 1 through 5
-  .fspace#{$i}
-    margin-bottom: $v-space-multiplier * $i
-
-@for $i from 1 through 5
-  .lhspace#{$i}
-    margin-left: $l-space-multiplier * $i
-
-img.feature-image
-  float: right
-  width: 400px
-
-ul
-  li
-    margin-bottom: 10px

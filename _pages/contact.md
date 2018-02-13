@@ -3,9 +3,12 @@ layout: page
 title: Contact
 permalink: '/contact/'
 ---
-<h1> Contact Me </h1>
-<div class="row">
-  <div class="col-md-6">
+<div class="row align-items-center">
+  <div class="col-sm-6">
+    <img src="/images/photography/events/concert2.jpg" />
+  </div>
+  <div class="col-sm-6">
+    <h1> Contact Me </h1>
     <form action="https://formspree.io/tkwidmer@gmail.com"
           method="POST">
         <label> Email </label>
