@@ -25,15 +25,16 @@ permalink: '/rates/'
     <p>
       My minimum rate for wedding services are 800$ + transportation costs. This gives
       you up to 6 hours of onsite photography. You will get up to 100 digital images complete
-      with post processing on a select 100 photos.
+      with post processing.
     </p>
 
-    <h5> Notes </h5>
+    <h5> Sliding Scale </h5>
     <p>
-      However, I will work on a sliding scale for LGBT, POC, Low Income, and Leather clients
+      I will work on a sliding scale for LGBT, POC, Low Income, and Leather clients
       and projects. I am also willing to negotiate trade.
     </p>
 
+    <h5> Booking </h5>
     <p>
       If you are interested in booking, please visit my <a href="/contact"> contact page</a>.
     </p>

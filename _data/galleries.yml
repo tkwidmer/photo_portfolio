@@ -16,6 +16,11 @@
   display_name: "Events"
   image_folder: '/images/photography/events'
   images:
+    - path: "/images/photography/events/1.jpg"
+    - path: "/images/photography/events/2.jpg"
+    - path: "/images/photography/events/2.5.jpg"
+    - path: "/images/photography/events/3.jpg"
+    - path: "/images/photography/events/5.jpg"
     - path: "/images/photography/events/imsl2016.jpg"
     - path: "/images/photography/events/4.jpg"
     - path: "/images/photography/events/12.jpg"
@@ -38,12 +43,16 @@
     - title: "Vatican City."
       path: "/images/photography/landscape/stormyvatican.jpg"
 
-- id: boudoir
-  display_name: "Boudoir"
-  image_folder: '/images/photography/boudoir'
+- id: fetish
+  display_name: "fetish"
+  image_folder: '/images/photography/fetish'
   images:
-    - title: "Godess Cyn"
-      path: "https://drscdn.500px.org/photo/135171135/q%3D80_m%3D2000/472c4c82d5c4fb678aaaefde5e5584ae"
+    - path: /images/photography/boudoir/1.jpg
+    - path: /images/photography/boudoir/2.jpg
+    - path: /images/photography/boudoir/3.jpg
+    - path: /images/photography/boudoir/4.jpg
+    - path: /images/photography/boudoir/5.jpg
+
 
 - id: wedding
   display_name: "Wedding"

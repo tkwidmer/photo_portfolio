@@ -8,8 +8,7 @@
     {% if gallery.id == page.gallery %}
       {% for image in gallery.images %}
           <a href="{{image.path}}"
-            data-toggle="lightbox"
-            data-gallery="{{gallery.id}}">
+            data-lightbox="image-1">
             <div class="gallery-img"
               style="background-image: url('{{image.path}}')"
               title="{{ image.title}}">
