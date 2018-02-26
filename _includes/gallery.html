@@ -3,6 +3,9 @@
 <div class="clearfix mt-5">
 
 </div>
+
+<!-- {% assign gallery = site.data.galleries[{{page.gallery}}] %}
+
 <div class="flexbox-gallery">
   {% for gallery in site.data.galleries %}
     {% if gallery.id == page.gallery %}
@@ -17,4 +20,22 @@
       {% endfor %}
     {% endif %}
   {% endfor %}
+</div> -->
+
+<div id="nanogallery2" data-nanogallery2='{{ site.data.gallery_config | jsonify }}'>
+
+{% for gallery in site.data.galleries %}
+  {% if gallery.id == page.gallery %}
+
+      {% for image in gallery.images %}
+        <a href="{{image.path}}" data-ngthumb="{{image.path}}"></a>
+      {% endfor %}
+
+      <!-- <a href="/images/photography/boudoir/blood1.jpg" data-ngthumb="/images/photography/boudoir/blood1.jpg">Berlin 1</a>
+      <a href="/images/photography/boudoir/blood2.jpg" data-ngthumb="/images/photography/boudoir/blood2.jpg">Berlin 1</a>
+      <a href="/images/photography/boudoir/blood3.jpg" data-ngthumb="/images/photography/boudoir/blood3.jpg">Berlin 1</a> -->
+
+  {% endif %}
+{% endfor %}
+
 </div>
