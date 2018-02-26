@@ -52,7 +52,11 @@
     - path: /images/photography/boudoir/3.jpg
     - path: /images/photography/boudoir/4.jpg
     - path: /images/photography/boudoir/5.jpg
-
+    - path: /images/photography/boudoir/blood1.jpg
+    - path: /images/photography/boudoir/blood2.jpg
+    - path: /images/photography/boudoir/blood3.jpg
+    - path: /images/photography/boudoir/blood4.jpg
+    - path: /images/photography/boudoir/blood5.jpg
 
 - id: wedding
   display_name: "Wedding"
