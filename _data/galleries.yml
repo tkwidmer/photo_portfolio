@@ -2,6 +2,8 @@
   display_name: "Portraits"
   image_folder: '/images/photography/portraits'
   images:
+    - path: "/images/photography/portrait/diana3.jpg"
+    - path: "/images/photography/portrait/diana4.jpg"
     - path: "/images/photography/portrait/self-portrait.jpg"
     - path: "/images/photography/portrait/nick.jpg"
     - path: "/images/photography/portrait/leanna1.jpg"
@@ -61,8 +63,6 @@
 - id: wedding
   display_name: "Wedding"
   images:
-    - path: /images/photography/wedding/rebekah1.jpg
-    - path: /images/photography/wedding/rebekah2.jpg
     - path: /images/photography/wedding/julie1.jpg
     - path: /images/photography/wedding/julie3.jpg
     - path: /images/photography/wedding/julie4.jpg
