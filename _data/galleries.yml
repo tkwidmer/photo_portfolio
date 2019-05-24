@@ -69,3 +69,10 @@
     - path: /images/photography/wedding/julie5.jpg
     - path: /images/photography/wedding/julie6.jpg
     - path: /images/photography/wedding/julie7.jpg
+
+- id: leather
+  display_name: "Leather"
+  images: 
+    - path: /images/photography/leather/TakeRefuge-111.jpg
+    - path: /images/photography/leather/TakeRefuge-117.jpg
+    - path: /images/photography/leather/TakeRefuge-118.jpg

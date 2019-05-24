@@ -40,6 +40,6 @@ permalink: '/rates/'
     </p>
   </div>
   <div class="col-sm-6">
-    <img src="/images/photography/wedding/julie6.jpg" />
+    <img src="/images/photography/leather/TakeRefuge-118.jpg" />
   </div>
 </div>
