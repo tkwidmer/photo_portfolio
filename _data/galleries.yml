@@ -2,8 +2,8 @@
   display_name: "Portraits"
   image_folder: '/images/photography/portraits'
   images:
+    - path: "/images/photography/portrait/ryan_and_jay.jpg"
     - path: "/images/photography/portrait/diana3.jpg"
-    - path: "/images/photography/portrait/diana4.jpg"
     - path: "/images/photography/portrait/self-portrait.jpg"
     - path: "/images/photography/portrait/nick.jpg"
     - path: "/images/photography/portrait/leanna1.jpg"
@@ -32,33 +32,33 @@
     - path: "/images/photography/events/concert.jpg"
     - path: "/images/photography/events/concert2.jpg"
 
-- id: landscape
-  display_name: "Landscape"
-  image_folder: '/images/photography/events'
-  images:
-    - title: "Mid Market At Dusk"
-      path: "/images/photography/landscape/mid-market.jpg"
-    - title: "Golden Gate Bridge"
-      path: "/images/photography/landscape/golden_gate.jpg"
-    - title: "Il Duomo di Firenze. Florence, Italy"
-      path: "/images/photography/landscape/illdluomo.jpg"
-    - title: "Vatican City."
-      path: "/images/photography/landscape/stormyvatican.jpg"
+# - id: landscape
+#   display_name: "Landscape"
+#   image_folder: '/images/photography/events'
+#   images:
+#     - title: "Mid Market At Dusk"
+#       path: "/images/photography/landscape/mid-market.jpg"
+#     - title: "Golden Gate Bridge"
+#       path: "/images/photography/landscape/golden_gate.jpg"
+#     - title: "Il Duomo di Firenze. Florence, Italy"
+#       path: "/images/photography/landscape/illdluomo.jpg"
+#     - title: "Vatican City."
+#       path: "/images/photography/landscape/stormyvatican.jpg"
 
-- id: fetish
-  display_name: "fetish"
-  image_folder: '/images/photography/fetish'
-  images:
-    - path: /images/photography/boudoir/1.jpg
-    - path: /images/photography/boudoir/2.jpg
-    - path: /images/photography/boudoir/3.jpg
-    - path: /images/photography/boudoir/4.jpg
-    - path: /images/photography/boudoir/5.jpg
-    - path: /images/photography/boudoir/blood1.jpg
-    - path: /images/photography/boudoir/blood2.jpg
-    - path: /images/photography/boudoir/blood3.jpg
-    - path: /images/photography/boudoir/blood4.jpg
-    - path: /images/photography/boudoir/blood5.jpg
+# - id: fetish
+#   display_name: "fetish"
+#   image_folder: '/images/photography/fetish'
+#   images:
+#     - path: /images/photography/boudoir/1.jpg
+#     - path: /images/photography/boudoir/2.jpg
+#     - path: /images/photography/boudoir/3.jpg
+#     - path: /images/photography/boudoir/4.jpg
+#     - path: /images/photography/boudoir/5.jpg
+#     - path: /images/photography/boudoir/blood1.jpg
+#     - path: /images/photography/boudoir/blood2.jpg
+#     - path: /images/photography/boudoir/blood3.jpg
+#     - path: /images/photography/boudoir/blood4.jpg
+#     - path: /images/photography/boudoir/blood5.jpg
 
 - id: wedding
   display_name: "Wedding"
