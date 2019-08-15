@@ -2,17 +2,17 @@
   display_name: "Portraits"
   image_folder: '/images/photography/portraits'
   images:
-    - path: "/images/photography/portrait/ryan_and_jay.jpg"
-    - path: "/images/photography/portrait/diana3.jpg"
-    - path: "/images/photography/portrait/self-portrait.jpg"
-    - path: "/images/photography/portrait/nick.jpg"
-    - path: "/images/photography/portrait/leanna1.jpg"
-    - path: "/images/photography/portrait/leanna2.jpg"
-    - path: "https://farm8.staticflickr.com/7602/16638491249_08850b6356_z.jpg"
-    - path: "/images/photography/portrait/kelly.JPG"
-    - path: "/images/photography/portrait/sarah2.jpg"
-    - path: "/images/photography/portrait/diana.jpg"
-    - path: "/images/photography/portrait/diana2.jpg"
+    - path: "/images/photography/portrait/darius.jpg"
+    - path: "/images/photography/portrait/jesbian.jpg"
+    - path: "/images/photography/portrait/bunne.jpg"
+    - path: "/images/photography/portrait/jay.jpg"
+    - path: "/images/photography/portrait/damian.jpg"
+    # - path: "/images/photography/portrait/leanna2.jpg"
+    # - path: "https://farm8.staticflickr.com/7602/16638491249_08850b6356_z.jpg"
+    # - path: "/images/photography/portrait/kelly.JPG"
+    # - path: "/images/photography/portrait/sarah2.jpg"
+    # - path: "/images/photography/portrait/diana.jpg"
+    # - path: "/images/photography/portrait/diana2.jpg"
 
 - id: events
   display_name: "Events"

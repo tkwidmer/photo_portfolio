@@ -77,6 +77,7 @@ permalink: '/rates/'
     <h5 class="mt-3"> Mini Shoots </h5>
     <ul>
       <li> Up to 30 min of shooting time.</li>
+      <li> Usually at events we are both attending.</li>
       <li> Editing and processing time. </li>
       <li> You recieve digital copies, up to 5 images. </li>
       <li> Additional Photos may also result in an up-charge. </li>

@@ -3,24 +3,32 @@
 <div class="clearfix mt-5">
 
 </div>
+<!-- <a href="#carouselExampleControls" role="button" data-slide="prev">
+    <span>Previous</span>
+</a>
+<a href="#carouselExampleControls" role="button" data-slide="next">
+  <span>Next</span>
+</a> 
 
-<!-- {% assign gallery = site.data.galleries[{{page.gallery}}] %}
+<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+    <div class="carousel-inner">
+      {% for gallery in site.data.galleries %}
+        {% if gallery.id == page.gallery %}
+          {% for image in gallery.images %}
+          {% if forloop.first %}
+            {% assign active = 'active' %}
+          {% else %}
+            {% assign active = '' %}
+          {% endif %}
 
-<div class="flexbox-gallery">
-  {% for gallery in site.data.galleries %}
-    {% if gallery.id == page.gallery %}
-      {% for image in gallery.images %}
-          <a href="{{image.path}}"
-            data-lightbox="image-1">
-            <div class="gallery-img"
-              style="background-image: url('{{image.path}}')"
-              title="{{ image.title}}">
-            </div>
-          </a>
+          <div class="carousel-item {{active}}">
+            <img class="d-block w-100" src="{{image.path}}" alt="First slide">
+          </div>
+          {% endfor %}
+        {% endif %}
       {% endfor %}
-    {% endif %}
-  {% endfor %}
-</div> -->
+    </div>
+  </div> -->
 
 <div id="nanogallery2" data-nanogallery2='{{ site.data.gallery_config | jsonify }}'>
 
