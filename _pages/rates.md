@@ -63,9 +63,9 @@ permalink: '/rates/'
     <p> <strong> Costs: </strong> 250$</p>
 
 
-    <h5 class="mt-3"> Headshots </h5>
+    <h5 class="mt-3"> Standard Shoot </h5>
     <ul>
-      <li> Up to 1 hour of studio time.</li>
+      <li> Up to 1 hour of studio time, maxium 2 outfits.</li>
       <li> Editing and processing time. </li>
       <li> You recieve digital copies, up to 10 images. </li>
       <li> Additional Photos will also result in an up-charge. </li>
